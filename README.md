@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi 👋 I'm Satvik Sengar
 
-<!--
-**satvikx7/satvikx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- Python  
+- Data Structures & Algorithms  
+- Machine Learning (Beginner)  
+
+---
+
+### 🌱 Currently Learning
+- Advanced Python  
+- DSA  
+- Machine Learning  
+
+---
+
+### 📌 Projects
+- Python mini projects  
+- DSA practice problems  
+- Academic projects  
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/satvik-sengar-1665a1264/
